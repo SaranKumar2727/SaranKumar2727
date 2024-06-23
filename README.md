@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaranKumar2727
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...Blockchain
+- 🌱 I’m currently learning ...Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...nvskumar2003@yahoo.com
 
